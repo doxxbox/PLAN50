@@ -1,6 +1,5 @@
 # PLAN50
-Steps-1,2,3,4 
-Jan-12(F) to Mar-02(F)
+Steps-1,2,3,4 Jan-12(F) to Mar-02(F)
 
 Step 1:(8)
 Learn Python
